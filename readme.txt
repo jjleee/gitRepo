@@ -4,4 +4,5 @@ Add new line.
 Creating a new branch is quick and simple.
 add line
 password
+remember password
 
